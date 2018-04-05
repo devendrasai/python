@@ -1,0 +1,110 @@
+Kindly try to get hands-on with the below in 3 weeks span of time.
+1
+Learn Python in 90 Minutes
+90.00
+Global Video 1 & Explore Self
+Day 1
+2
+Python Crash Course For Beginners
+70.00
+Global Video 2 & Explore Self
+Day 1
+3
+Let's Learn Python - Basics #1 of 8 - Integers, Floats and Maths
+12.43
+https://www.youtube.com/watch?v=D48iCw3WWpI
+Day 1
+4
+Let's Learn Python - Basics #2 of 8 - Strings, Lists, Tuples and Dictionaries
+21.09
+https://www.youtube.com/watch?v=19EfbO5D_8s
+Day 1
+5
+Let's Learn Python - Basics #3 of 8 - Conditionals, If, Else, Elif
+9.36
+https://www.youtube.com/watch?v=mQrci1kAwh4
+Day 1
+6
+Let's Learn Python - Basics #4 of 8 - Loops
+8.48
+https://www.youtube.com/watch?v=6HWK6O4-28E
+Day 1
+7
+Let's Learn Python - Basics #5 of 8 - Exception Handling
+6.17
+https://www.youtube.com/watch?v=hrR0WrQMhSs
+Day 1
+8
+Let's Learn Python - Basics #6 of 8 - Functions
+8.20
+https://www.youtube.com/watch?v=qO4ZN5uZSVg
+Day 1
+9
+Let's Learn Python - Basics #7 of 8 - Files and User Input
+14.54
+https://www.youtube.com/watch?v=0ury8KHQdL4
+Day 1
+10
+Let's Learn Python - Basics #8 of 8 - Classes
+13.28
+https://www.youtube.com/watch?v=trOZBgZ8F_c
+Day 1
+11
+Let's Learn Python #9 - Creating Text Files
+10.56
+https://www.youtube.com/watch?v=DRZdfd5_rdg
+Day 1
+12
+Let's Learn Python #10 - Inheritance - OOP 1 of 3
+10.24
+https://www.youtube.com/watch?v=pxbdnrjf-Uc
+Day 2
+13
+Let's Learn Python #11 - Overriding & File Mng. - OOP 2 of 3
+6.40
+https://www.youtube.com/watch?v=TF_y8Gta0vY
+Day 2
+14
+Let's Learn Python #12 - Abstract Classes, Multiple Inheritance - OOP 3 of 3
+7.10
+https://www.youtube.com/watch?v=rOaRMW8jYOo
+Day 2
+15
+Python Tutorial  Python Tutorial for Beginners
+105.00
+Global Video 3 & Explore Self
+Day 2
+16
+Let's Learn Python #13 - UML - Unified Modeling Language
+3.52
+https://www.youtube.com/watch?v=U3B5z2HQlaQ
+Day 2
+17
+Let's Learn Python #14 - *Args, **Kwargs
+6.38
+https://www.youtube.com/watch?v=WWm5DxTzLuk
+Day 2
+18
+Let's Learn Python #15 - Nesting Functions and Decorators
+9.34
+https://www.youtube.com/watch?v=fVon4QaY4wo
+Day 2
+19
+Let's Learn Python #16 – Singletons
+8.05
+https://www.youtube.com/watch?v=6IV_FYx6MQA
+Day 2
+20
+Let's Learn Python #17 - Type Class Creation, Metaclass
+13.12
+https://www.youtube.com/watch?v=pd4Lm_WLJpM
+Day 2
+21
+Let's Learn Python #18 - Factory and @classmethod
+9.35
+https://www.youtube.com/watch?v=flOXIdWUpmU
+Day 2
+ 
+ 
+Thanks
+Gurunath Pai.
